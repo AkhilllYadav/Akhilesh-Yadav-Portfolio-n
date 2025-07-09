@@ -10,7 +10,7 @@ export function Certificates() {
   description:
     "A 6-month advanced certification program by IIT Delhi's Yardi School of Artificial Intelligence and Continuing Education Programme (CEP), covering machine learning, deep learning, generative AI, graph neural networks, and real-world industry applications.",
   year: "2025",
-  image: "//images/IIT-Delhi-Certificate.jpg", // Replace with actual certificate image path
+  image: "https://media.licdn.com/dms/image/v2/D562DAQGNHWQ8O8p3ug/profile-treasury-image-shrink_800_800/B56ZfuBUCFG0Ag-/0/1752045012273?e=1752660000&v=beta&t=dY2k9riczQv0BBK4omySWLAkqK1yj9Eo_bfsKLcwrZg", // Replace with actual certificate image path
   credentialUrl: "https://ceppay.iitd.ac.in/certificate/verification/70a190719265f16f4927fbe2bda6f21e", // Or a public certificate link if available
   skills: [
     "Python",
