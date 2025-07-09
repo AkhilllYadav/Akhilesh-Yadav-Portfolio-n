@@ -56,9 +56,9 @@ export function Projects() {
       description:
         "Exploratory data analysis on Netflix's movie dataset to uncover trends and insights about popular genres, duration patterns, and ratings.",
       technologies: ["Python", "Pandas", "Matplotlib", "Seaborn"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/netflix-data-analysis",
-      liveUrl: "https://netflix-analysis-dashboard.streamlit.app",
+      image: "https://media.licdn.com/dms/image/v2/D562DAQFKznjT4QaRfw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1737094149093?e=1752663600&v=beta&t=Hz4nk2W7EVa9A-M09TThyFfupQ9FVBMwhOsXbpkfcbY",
+      githubUrl: "https://github.com/AkhilllYadav/Movie_Data_Analysis_Netflix",
+      liveUrl: "https://github.com/AkhilllYadav/Movie_Data_Analysis_Netflix",
       category: "AI/ML/LLM",
       highlights: [
         "Comprehensive EDA on Netflix dataset",
