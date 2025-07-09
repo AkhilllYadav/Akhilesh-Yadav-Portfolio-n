@@ -31,7 +31,7 @@ export function Certificates() {
       description:
         "Comprehensive certification covering AI development, machine learning, and practical implementation of AI solutions.",
       year: "2024",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.licdn.com/dms/image/v2/D562DAQESZ55LMFUx6Q/profile-treasury-image-shrink_800_800/B56ZfTVwp0HoAY-/0/1751597389044?e=1752660000&v=beta&t=WcErE1dkVr4XXfYVFE8QgE1rhQ5GIuXBcOge-SnRZl4",
       credentialUrl: "https://coursera.org/verify/professional-cert/IBM-AI-DEVELOPER",
       skills: ["Python", "Machine Learning", "Deep Learning", "AI Development", "TensorFlow"],
     },
