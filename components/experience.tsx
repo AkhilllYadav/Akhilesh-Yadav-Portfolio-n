@@ -10,7 +10,7 @@ export function Experience() {
       location: "New Delhi, India",
       period: "March 2024 - April 2025",
       technologies: ["React", "Node.js", "MongoDB", "AI/ML"],
-      logo: "/placeholder.svg?height=120&width=120",
+      logo: "https://mir-s3-cdn-cf.behance.net/projects/404/834820206199409.Y3JvcCwxMDgwLDg0NCwwLDExNw.png",
       website: "https://redcubedigital.com",
       responsibilities: [
         "Developed a web-based AI-powered influencer directory to streamline discovery and collaboration between brands, influencers, and marketing agencies",
@@ -26,7 +26,7 @@ export function Experience() {
       location: "New Delhi, India",
       period: "July 2023 - September 2023",
       technologies: ["XML", "Kotlin", "Android SDK", "Firebase"],
-      logo: "/placeholder.svg?height=120&width=120",
+      logo: "https://wemonde.com/wp-content/uploads/2020/07/new_logo.png",
       website: "https://wemonde.com",
       responsibilities: [
         "Developed Android applications using Java and XML",
