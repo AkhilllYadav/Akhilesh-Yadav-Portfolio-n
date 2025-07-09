@@ -11,7 +11,7 @@ export function Education() {
       type: "Professional Certification",
       subjects: ["Python", "Data Visualization", "EDA", "Deep Learning", "ANN", "CNN", "Generative AI"],
       logo: "https://images.seeklogo.com/logo-png/48/2/indian-institute-of-technology-delhi-logo-png_seeklogo-483677.png",
-      degreeImage: "IIT Delhi Certificate.jpg",
+      degreeImage: "/images/IIT_Delhi_Certificate.jpg",
     },
     {
       institution: "Dr. APJ Abdul Kalam Technical University",
