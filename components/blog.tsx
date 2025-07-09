@@ -5,14 +5,14 @@ import { Calendar, Clock, ArrowRight, BookOpen } from "lucide-react"
 export function Blog() {
   const blogPosts = [
     {
-      title: "Getting Started with Machine Learning: A Beginner's Guide",
+      title: "Building an AI-Powered Video Call Assistant for Laptop Troubleshooting",
       description:
-        "Explore the fundamentals of machine learning, from basic concepts to practical implementation. Learn about supervised and unsupervised learning, popular algorithms, and how to start your ML journey.",
-      image: "/placeholder.svg?height=250&width=400",
-      date: "December 15, 2024",
+        "In an era where technology underpins almost every facet of our lives, encountering laptop issues—be it hardware malfunctions or software misconfigurations—can bring productivity to a grinding halt. While traditional support channels such as help desks, forums, and knowledge base articles aim to bridge the gap, they often leave users navigating generic, one-size-fits-all instructions. An AI‑powered video call assistant elevates this experience by delivering real‑time, personalized guidance directly to the user’s screen, combining the nuance of conversation with the clarity of visual demonstration.",
+      image: "https://substackcdn.com/image/fetch/$s_!3CC5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F316dc039-c8da-4404-b025-de9bb05e3479_1024x608.png",
+      date: "April 24, 2025",
       readTime: "8 min read",
       category: "Machine Learning",
-      link: "https://medium.com/@akhilyadawa/getting-started-with-machine-learning",
+      link: "https://open.substack.com/pub/akhileshyadav18/p/building-an-ai-powered-video-call?r=36ak4d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
       tags: ["ML", "Python", "Beginner"],
     },
     {
