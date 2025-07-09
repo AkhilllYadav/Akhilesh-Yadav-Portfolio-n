@@ -40,8 +40,8 @@ export function Certificates() {
       issuer: "Dr. Angela Yu via Udemy",
       description: "Full-stack web development course covering modern technologies and best practices.",
       year: "2024",
-      image: "/placeholder.svg?height=300&width=400",
-      credentialUrl: "https://udemy.com/certificate/web-development-bootcamp",
+      image: "https://udemy-certificate.s3.amazonaws.com/image/UC-3aa28803-d239-41df-a37d-2225110c8a76.jpg?v=1712639310000",
+      credentialUrl: "https://www.udemy.com/certificate/UC-3aa28803-d239-41df-a37d-2225110c8a76/",
       skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
     },
     {
@@ -49,8 +49,8 @@ export function Certificates() {
       issuer: "Tim Buchalka via Udemy",
       description: "Advanced Java programming course covering Java 17 features and enterprise development.",
       year: "2023",
-      image: "/placeholder.svg?height=300&width=400",
-      credentialUrl: "https://udemy.com/certificate/java-17-masterclass",
+      image: "https://udemy-certificate.s3.amazonaws.com/image/UC-39dc2830-bc11-46d8-b315-41f23f2ddd54.jpg?v=1711993510000",
+      credentialUrl: "https://www.udemy.com/certificate/UC-39dc2830-bc11-46d8-b315-41f23f2ddd54/",
       skills: ["Java 17", "OOP", "Spring Framework", "Enterprise Development"],
     },
   ]
