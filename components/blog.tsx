@@ -160,9 +160,9 @@ export function Blog() {
         {/* View All Posts Button */}
         <div className="text-center mt-12">
           <Button variant="outline" size="lg" asChild>
-            <a href="https://medium.com/@akhilyadawa" target="_blank" rel="noopener noreferrer">
+            <a href="https://substack.com/@akhileshyadav1" target="_blank" rel="noopener noreferrer">
               <BookOpen className="h-5 w-5 mr-2" />
-              View All Posts on Medium
+              View All Posts on Substack.com
             </a>
           </Button>
         </div>
