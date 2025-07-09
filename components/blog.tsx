@@ -26,50 +26,6 @@ export function Blog() {
       link: "https://open.substack.com/pub/akhileshyadav18/p/startup-idea-ai-and-saas?r=36ak4d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
       tags: ["AI", "React", "Node.js", "JavaScript", "Startup"],
     },
-    {
-      title: "Deep Dive into Natural Language Processing with BERT",
-      description:
-        "Understand the revolutionary BERT model and its applications in NLP. Learn how to implement BERT for sentiment analysis, text classification, and other NLP tasks with practical examples.",
-      image: "/placeholder.svg?height=250&width=400",
-      date: "November 10, 2024",
-      readTime: "15 min read",
-      category: "AI & NLP",
-      link: "https://medium.com/@akhilyadawa/deep-dive-into-nlp-with-bert",
-      tags: ["NLP", "BERT", "Deep Learning"],
-    },
-    {
-      title: "Data Visualization Best Practices with Python",
-      description:
-        "Master the art of data visualization using Python libraries like Matplotlib, Seaborn, and Plotly. Learn how to create compelling visualizations that tell a story with your data.",
-      image: "/placeholder.svg?height=250&width=400",
-      date: "October 22, 2024",
-      readTime: "10 min read",
-      category: "Data Science",
-      link: "https://medium.com/@akhilyadawa/data-visualization-best-practices",
-      tags: ["Python", "Matplotlib", "Data Viz"],
-    },
-    {
-      title: "Deploying Machine Learning Models to Production",
-      description:
-        "Learn the complete process of taking your ML models from development to production. Explore containerization, API development, monitoring, and scaling strategies for ML applications.",
-      image: "/placeholder.svg?height=250&width=400",
-      date: "October 5, 2024",
-      readTime: "14 min read",
-      category: "MLOps",
-      link: "https://medium.com/@akhilyadawa/deploying-ml-models-to-production",
-      tags: ["MLOps", "Docker", "API"],
-    },
-    {
-      title: "Understanding Database Design and Optimization",
-      description:
-        "Dive deep into database design principles, normalization, indexing strategies, and query optimization. Learn how to build efficient database systems for modern applications.",
-      image: "/placeholder.svg?height=250&width=400",
-      date: "September 18, 2024",
-      readTime: "11 min read",
-      category: "Database",
-      link: "https://medium.com/@akhilyadawa/understanding-database-design",
-      tags: ["SQL", "MongoDB", "Database"],
-    },
   ]
 
   const getCategoryColor = (category: string) => {
