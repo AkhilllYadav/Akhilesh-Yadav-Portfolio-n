@@ -23,7 +23,7 @@ export function Certificates() {
     "Data Science",
     "Transformers"
   ],
-}
+},
 
     {
       title: "IBM AI Developer Professional Certificate",
