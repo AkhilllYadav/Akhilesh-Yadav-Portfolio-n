@@ -11,7 +11,7 @@ export function Education() {
       type: "Professional Certification",
       subjects: ["Python", "Data Visualization", "EDA", "Deep Learning", "ANN", "CNN", "Generative AI"],
       logo: "https://images.seeklogo.com/logo-png/48/2/indian-institute-of-technology-delhi-logo-png_seeklogo-483677.png",
-      degreeImage: "/images/IIT-Delhi-Certificate.jpg",
+      degreeImage: "https://media.licdn.com/dms/image/v2/D562DAQGNHWQ8O8p3ug/profile-treasury-image-shrink_800_800/B56ZfuBUCFG0Ag-/0/1752045012273?e=1752660000&v=beta&t=dY2k9riczQv0BBK4omySWLAkqK1yj9Eo_bfsKLcwrZg",
     },
     {
       institution: "Dr. APJ Abdul Kalam Technical University",
@@ -21,7 +21,7 @@ export function Education() {
       type: "Bachelor's Degree",
       subjects: ["Data Structures", "DBMS", "Software Engineering", "Operating Systems"],
       logo: "https://upload.wikimedia.org/wikipedia/en/9/98/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png",
-      degreeImage: "/placeholder.svg?height=300&width=400",
+      degreeImage: "https://media.licdn.com/dms/image/v2/D562DAQGRAQEewGUMGA/profile-treasury-image-shrink_1920_1920/B56Zalen5BGoAc-/0/1746532991592?e=1752660000&v=beta&t=94Ytdy-oiV7IgWnfEjZ0FeZZ5bgR0_FvHkWVbHJOna8",
     },
     {
       institution: "Pawanagar Mahaveer Intermediate College (UP Board)",
