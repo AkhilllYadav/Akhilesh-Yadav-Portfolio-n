@@ -10,7 +10,7 @@ export function Education() {
       period: "2024 - 2025",
       type: "Professional Certification",
       subjects: ["Python", "Data Visualization", "EDA", "Deep Learning", "ANN", "CNN", "Generative AI"],
-      logo: "/placeholder.svg?height=100&width=100",
+      logo: "https://images.seeklogo.com/logo-png/48/2/indian-institute-of-technology-delhi-logo-png_seeklogo-483677.png",
       degreeImage: "IIT Delhi Certificate.jpg",
     },
     {
