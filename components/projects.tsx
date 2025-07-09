@@ -38,20 +38,6 @@ export function Projects() {
       ],
     },
     {
-      title: "Indeed Clone",
-      description: "A full-stack job portal clone with job listings, user profiles, and application functionality.",
-      technologies: ["React", "Spring Boot", "Hibernate", "MongoDB"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/indeed-clone",
-      liveUrl: "https://indeed-clone-demo.vercel.app",
-      category: "Website",
-      highlights: [
-        "Complete job portal functionality",
-        "User authentication and profiles",
-        "Job application management system",
-      ],
-    },
-    {
       title: "Movie Data Analysis on Netflix",
       description:
         "Exploratory data analysis on Netflix's movie dataset to uncover trends and insights about popular genres, duration patterns, and ratings.",
@@ -65,48 +51,6 @@ export function Projects() {
         "Genre and rating distribution analysis",
         "Data cleaning and visualization",
       ],
-    },
-    {
-      title: "Interactive Drum Kit",
-      description:
-        "A fun and interactive web-based drum kit that allows users to explore musical creativity through keyboard and mouse interactions.",
-      technologies: ["HTML", "CSS", "JavaScript"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/drum-kit",
-      liveUrl: "https://interactive-drum-kit.vercel.app",
-      category: "Website",
-      highlights: ["Interactive drum simulation", "Keyboard and mouse controls", "Sound effects and animations"],
-    },
-    {
-      title: "Digital Project + Razorpay Integration",
-      description: "E-commerce product cards with integrated Razorpay payment gateway for seamless transactions.",
-      technologies: ["JavaScript", "Razorpay API", "HTML", "CSS"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/razorpay-integration",
-      liveUrl: "https://razorpay-demo.vercel.app",
-      category: "SaaS",
-      highlights: ["Secure payment integration", "Product catalog management", "Transaction handling"],
-    },
-    {
-      title: "AI-Powered Influencer Directory",
-      description:
-        "Web-based AI-powered platform for streamlining discovery and collaboration between brands and influencers.",
-      technologies: ["React", "Node.js", "MongoDB", "AI/ML", "Express"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/influencer-directory",
-      liveUrl: "https://influencer-directory.vercel.app",
-      category: "SaaS",
-      highlights: ["AI-powered matching algorithms", "Advanced search and filtering", "Campaign tracking dashboard"],
-    },
-    {
-      title: "Mobile Task Manager App",
-      description: "Android application for task management with Firebase integration and real-time synchronization.",
-      technologies: ["Kotlin", "Android SDK", "Firebase", "XML"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/task-manager-app",
-      liveUrl: "https://play.google.com/store/apps/details?id=com.akhilesh.taskmanager",
-      category: "App",
-      highlights: ["Real-time task synchronization", "Offline functionality", "Push notifications"],
     },
   ]
 
