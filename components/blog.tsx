@@ -16,15 +16,15 @@ export function Blog() {
       tags: ["ML", "AI", "Troubleshoot"],
     },
     {
-      title: "Building Scalable Web Applications with React and Node.js",
+      title: "Startup Idea: AI & Saas",
       description:
-        "Learn how to create robust, scalable web applications using React for the frontend and Node.js for the backend. Discover best practices, performance optimization techniques, and deployment strategies.",
-      image: "/placeholder.svg?height=250&width=400",
-      date: "November 28, 2024",
+        "The world of education is evolving, and technology is at the forefront of this transformation. If you're looking for a groundbreaking startup idea that combines Artificial Intelligence (AI) and SaaS (Software-as-a-Service) to address real-world challenges, then this concept is for you.",
+      image: "https://substackcdn.com/image/fetch/$s_!E5f5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f006af2-2d15-447b-b627-f7541f9cca97_1024x608.png",
+      date: "January 04, 2025",
       readTime: "12 min read",
       category: "Web Development",
-      link: "https://medium.com/@akhilyadawa/building-scalable-web-applications",
-      tags: ["React", "Node.js", "JavaScript"],
+      link: "https://open.substack.com/pub/akhileshyadav18/p/startup-idea-ai-and-saas?r=36ak4d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
+      tags: ["AI", "React", "Node.js", "JavaScript", "Startup"],
     },
     {
       title: "Deep Dive into Natural Language Processing with BERT",
