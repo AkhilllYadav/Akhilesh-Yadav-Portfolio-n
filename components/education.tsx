@@ -11,7 +11,7 @@ export function Education() {
       type: "Professional Certification",
       subjects: ["Python", "Data Visualization", "EDA", "Deep Learning", "ANN", "CNN", "Generative AI"],
       logo: "/placeholder.svg?height=100&width=100",
-      degreeImage: "/IIT Delhi Certificate.jpg",
+      degreeImage: "IIT Delhi Certificate.jpg",
     },
     {
       institution: "Dr. APJ Abdul Kalam Technical University",
