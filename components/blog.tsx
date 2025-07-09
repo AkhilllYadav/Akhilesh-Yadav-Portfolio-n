@@ -13,7 +13,7 @@ export function Blog() {
       readTime: "8 min read",
       category: "Machine Learning",
       link: "https://open.substack.com/pub/akhileshyadav18/p/building-an-ai-powered-video-call?r=36ak4d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
-      tags: ["ML", "Python", "Beginner"],
+      tags: ["ML", "AI", "Troubleshoot"],
     },
     {
       title: "Building Scalable Web Applications with React and Node.js",
