@@ -20,7 +20,7 @@ export function Education() {
       period: "2020 - 2024",
       type: "Bachelor's Degree",
       subjects: ["Data Structures", "DBMS", "Software Engineering", "Operating Systems"],
-      logo: "https://www.clipartmax.com/png/middle/147-1471121_aktu-logo-dr-a-p-j-abdul-kalam-technical-university.png",
+      logo: "https://upload.wikimedia.org/wikipedia/en/9/98/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png",
       degreeImage: "/placeholder.svg?height=300&width=400",
     },
     {
@@ -30,7 +30,7 @@ export function Education() {
       period: "2019 - 2020",
       type: "Higher Secondary",
       subjects: ["Physics", "Chemistry", "Mathematics"],
-      logo: "/placeholder.svg?height=100&width=100",
+      logo: "https://static.toiimg.com/thumb/msid-120301734,width-400,resizemode-4/UP-Board-result-2025-is-expected-to-release-on-this-date-Check-what-latest-updates-and-past-trends-suggest.jpg",
       degreeImage: "/placeholder.svg?height=300&width=400",
     },
     {
@@ -40,7 +40,7 @@ export function Education() {
       period: "2017 - 2018",
       type: "Secondary",
       subjects: ["Science", "Mathematics", "English"],
-      logo: "/placeholder.svg?height=100&width=100",
+      logo: "https://static.toiimg.com/thumb/msid-120301734,width-400,resizemode-4/UP-Board-result-2025-is-expected-to-release-on-this-date-Check-what-latest-updates-and-past-trends-suggest.jpg",
       degreeImage: "/placeholder.svg?height=300&width=400",
     },
   ]
