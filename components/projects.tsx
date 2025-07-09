@@ -12,9 +12,9 @@ export function Projects() {
       description:
         "A comparative evaluation of Machine Learning and Deep Learning models for sentiment analysis using Amazon Fine Food Reviews dataset.",
       technologies: ["Python", "BERT", "LSTM", "TF-IDF", "NLP", "Machine Learning"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/sentiment-analysis",
-      liveUrl: "https://sentiment-analysis-demo.vercel.app",
+      image: "https://cdn.shulex-tech.com/blog-media/uploads/2022/12/sentiment-analysis.png",
+      githubUrl: "https://github.com/AkhilllYadav/Sentiment-Analysis-on-Product-Reviews",
+      liveUrl: "https://github.com/AkhilllYadav/Sentiment-Analysis-on-Product-Reviews",
       category: "AI/ML/LLM",
       highlights: [
         "BERT model significantly outperformed traditional approaches",
@@ -27,9 +27,9 @@ export function Projects() {
       description:
         "A comprehensive analytics dashboard built with Streamlit for visualizing and analyzing business metrics across sales, marketing, and customer reviews.",
       technologies: ["Python", "Streamlit", "Pandas", "Matplotlib", "Data Visualization"],
-      image: "/placeholder.svg?height=250&width=400",
-      githubUrl: "https://github.com/AkhilllYadav/business-analytics-dashboard",
-      liveUrl: "https://business-analytics-dashboard.streamlit.app",
+      image: "https://media.licdn.com/dms/image/v2/D562DAQF1VoCru2jz_A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738779034658?e=1752663600&v=beta&t=-FNu_bE2lrxhFLZO-Oy4Vw2JdtXgS031Uhfngtmop0o",
+      githubUrl: "https://github.com/AkhilllYadav/Business-Analytics",
+      liveUrl: "https://github.com/AkhilllYadav/Business-Analytics",
       category: "SaaS",
       highlights: [
         "Interactive visualizations for business metrics",
