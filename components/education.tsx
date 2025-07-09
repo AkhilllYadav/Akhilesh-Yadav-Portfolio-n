@@ -20,7 +20,7 @@ export function Education() {
       period: "2020 - 2024",
       type: "Bachelor's Degree",
       subjects: ["Data Structures", "DBMS", "Software Engineering", "Operating Systems"],
-      logo: "/placeholder.svg?height=100&width=100",
+      logo: "https://www.clipartmax.com/png/middle/147-1471121_aktu-logo-dr-a-p-j-abdul-kalam-technical-university.png",
       degreeImage: "/placeholder.svg?height=300&width=400",
     },
     {
